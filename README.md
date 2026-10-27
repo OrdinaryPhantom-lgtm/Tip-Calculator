@@ -4,7 +4,7 @@ Enter the bill amount and a tip percentage, and see the tip and the total.
 
 **Live demo:** https://YOUR-USERNAME.github.io/tip-calculator/
 
-![Tip Calculator screenshot](Tip-Caluclator.png)
+![Tip Calculator screenshot](Tip-Calculator.png)
 
 ## Example
 
